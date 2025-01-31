@@ -1,0 +1,2 @@
+# FoxMod
+A Minecraft Client
